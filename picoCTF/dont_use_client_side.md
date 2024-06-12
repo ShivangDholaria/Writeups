@@ -10,7 +10,7 @@ Can you break into this super secure portal? https://jupiter.challenges.picoctf.
 
 Link will differ from user to user
 
-## Hints (if any)
+## Hints
 1. Never trust the client
 
 ## Approach
