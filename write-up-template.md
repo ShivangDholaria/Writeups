@@ -1,4 +1,4 @@
-# Challange-Name
+# Challange
 
 ## Overview
 
