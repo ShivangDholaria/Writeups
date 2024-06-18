@@ -14,7 +14,7 @@ Can you figure out how this program works to get the flag? Connect to the progra
 The program's source code can be downloaded `here`.
 
 ## Hints (if any)
-1. Can you do what `win` does with your input to the program?
+1. Is there any way to modify the function table?
 
 ## Approach
 This challenge was a tricky one. Here, there is a lot happening under the hood. 
